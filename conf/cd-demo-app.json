@@ -4,7 +4,7 @@
   "container": {
     "type": "DOCKER",
     "docker": {
-      "image": "tbaums/cicd-demo:latest"
+      "image": "tbaums/cicd-demo"
     },
     "portMappings": [
       {
